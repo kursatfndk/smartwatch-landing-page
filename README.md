@@ -27,7 +27,7 @@ The page includes hero section, product features, pricing plans, testimonials, a
 - CSS3
 
 ## 📷 Preview
-![Preview](images/render.PNG)
+![Preview](images/render.png)
 
 ## 📌 How to Use
 1. Clone this repository:
